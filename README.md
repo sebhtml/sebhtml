@@ -6,6 +6,6 @@ I am a Software Developer.
 
 - :monkey: I train with calisthenics.
 - :potted_plant: I own many interior plants.
-- :chart: I am a dot-it-yourself investor.
+- :chart: I am a do-it-yourself investor.
 - :penguin: I use Debian Linux and Ubuntu Linux.
 
