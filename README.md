@@ -1,7 +1,7 @@
 
 # Hello World
 
-- :wave: My name- is `sebhtml`.
+- :wave: My name is `sebhtml`.
 - :wrench: I am a software engineering professional ("Software Developer").
 - :spider_web: I initially specialized in following hyper-link (hence the "html" part in "sebhtml").
 - :crab: I now specialize in software engineering using Rust.
