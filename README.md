@@ -3,7 +3,7 @@
 
 - :wave: My name is `sebhtml`.
 - :wrench: I am a software engineering professional ("Software Developer").
-- :spider_web: I initially specialized in following hyper-link (hence the "html" part in "sebhtml").
+- :spider_web: I initially specialized in following hyper links (hence the "html" part in "sebhtml").
 - :crab: I now specialize in software engineering using Rust.
 - :robot: I like to learn about AI and other things using AI and prompt engineering (as an LLM end user).
 - :penguin: I use Linux, namely Ubuntu.
